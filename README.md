@@ -2,7 +2,7 @@
 
 
 ## 1- Consulta às linhas de ônibus de POA
-#### Projeto final da cadeira de Programação Orientada a Objetos
+###### Projeto final da cadeira de Programação Orientada a Objetos
 
 - Linguagem: Java
 - Frameworks/bibliotecas/APis utilizados: 
